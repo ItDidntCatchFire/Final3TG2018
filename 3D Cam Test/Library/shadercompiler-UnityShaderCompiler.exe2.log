@@ -1,0 +1,13 @@
+Base path: C:/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2863 outsize=48113 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5188 outsize=4077 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9421 outsize=8629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2953 outsize=345 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1864 outsize=537 ok=1
+Cmd: initializeCompiler
